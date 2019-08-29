@@ -1,2 +1,2 @@
 # my_drupal
-Drupal docker
+Drupal dev environment (Docker-compose)
